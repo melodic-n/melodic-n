@@ -24,5 +24,5 @@ Cybersecurity Engineering student passionate about building secure software and 
 - Employee Leave Management System
 
 ## Contact
-- LinkedIn: ...
-- Email: ...
+- LinkedIn: [...](https://www.linkedin.com/in/hafsa-mokhlis-a5521a210/)
+
