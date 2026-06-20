@@ -1,17 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FD4&center=true&vCenter=true&width=500&lines=hey%2C+i'm+melodic-n+%F0%9F%8C%99;i+break+things+to+understand+them;security+%2B+code+%2B+curiosity)](https://git.io/typing-svg)
+# 🌌 hey, i'm melodic-n
+
+*cybersecurity engineering student · breaking things to understand them*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9B8FD4&center=true&vCenter=true&width=500&lines=security+%2B+code+%2B+curiosity;currently+learning+in+the+dark+🌑;CTF+player+%7C+backend+builder)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```
-> whoami
-  ↳ cybersecurity engineering student
-  ↳ somewhere between dev and defender
-  ↳ currently: learning in the dark 🌑
-```
+🌑 &nbsp;**cybersecurity engineering student** at ENSA  
+🔀 &nbsp;somewhere between **dev** and **defender**  
+🚩 &nbsp;learning by doing — CTFs, tools, and late nights  
+☁️ &nbsp;current obsession: **cloud security + DevSecOps**  
 
 ---
 
