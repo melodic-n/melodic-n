@@ -12,7 +12,7 @@
 🌑 &nbsp;**cybersecurity engineering student** at ENSA  
 🔀 &nbsp;somewhere between **dev** and **defender**  
 🚩 &nbsp;learning by doing — CTFs, tools, and late nights  
-☁️ &nbsp;current obsession: **cloud security + DevSecOps**  
+☁️ &nbsp;current obsession: **Backend Systems + cloud security + DevSecOps**  
 
 ---
 
