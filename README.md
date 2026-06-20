@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 hey, i'm melodic-n
+#  hey, i'm melodic-n
 
 *cybersecurity engineering student · breaking things to understand them*
 
@@ -17,15 +17,13 @@
 
 ---
 
-### 🔭 current focus
+###  current focus
 
-```python
-focus = {
-    "learning"  : ["Cloud Security", "DevSecOps", "CTF challenges"],
-    "building"  : ["Security tools", "Backend systems"],
-    "exploring" : ["offensive security", "secure software design"]
-}
-```
+ 
+🧠 &nbsp;**learning** — Cloud Security  · CTF challenges  
+🔨 &nbsp;**building** — Security tools · Backend systems  
+🌐 &nbsp;**exploring** — Offensive security · Secure software design · DevSecOps
+ 
 
 ---
 
@@ -33,7 +31,6 @@ focus = {
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=9B8FD4)
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=9B8FD4)
-![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=9B8FD4)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=9B8FD4)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9B8FD4)
 ![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=9B8FD4)
@@ -41,7 +38,7 @@ focus = {
 
 ---
 
-### 🚩 featured projects
+###  featured projects
 
 | project | what it does |
 |---|---|
@@ -49,10 +46,10 @@ focus = {
 | 🛡️ File Integrity Checker | detects unauthorized file changes |
 | 📡 Port Scanner | maps open ports on a target |
 | 🗂️ Employee Leave Management System | full-stack management app |
-
+|  🚩Mini-CTF challenges for Cybersecurity cell - Appsclub | CTF |
 ---
 
-### 📊 stats
+###  stats
 
 <div align="center">
 
